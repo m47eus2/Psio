@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "cstdlib": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "xmemory": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp"
+    }
+}
